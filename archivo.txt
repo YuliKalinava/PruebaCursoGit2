@@ -1,1 +1,2 @@
 he cambiado el status en archivo 1
+modificar despues del comando commit
